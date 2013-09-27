@@ -20,7 +20,7 @@ Or install it yourself as:
 
 Place the following line into your application.js
 
-    //= require jquery.SerializeObject
+    //= require jquery.serializeObject
 
 ## Contributing
 
