@@ -1,6 +1,6 @@
 # JquerySerializeObjectRails
 
-Adds jQuery.serializeObject plugin to your project
+Adds [jQuery.serializeObject](https://github.com/hongymagic/jQuery.serializeObject "jQuery.serializeObject") plugin to your Rails 3.1+ app.
 
 ## Installation
 
@@ -21,6 +21,10 @@ Or install it yourself as:
 Place the following line into your application.js
 
     //= require jquery.serializeObject
+
+## Requirements
+
+Rails 3.1 and higher
 
 ## Contributing
 
