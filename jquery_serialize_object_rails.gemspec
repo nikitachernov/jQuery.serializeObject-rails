@@ -6,8 +6,8 @@ require 'jquery_serialize_object_rails/version'
 Gem::Specification.new do |spec|
   spec.name          = "jquery_serialize_object_rails"
   spec.version       = JquerySerializeObjectRails::VERSION
-  spec.authors       = ["Nikita Cernovs"]
-  spec.email         = ["n.cernovs@77agency.com"]
+  spec.authors       = ["Nikita Chernov"]
+  spec.email         = ["nikita.cernovs@gmail.com"]
   spec.description   = %q{Adds jQuery.serializeObject plugin to your project}
   spec.summary       = %q{Adds jQuery.serializeObject plugin to your project}
   spec.homepage      = ""
