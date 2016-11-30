@@ -1,3 +1,3 @@
 module JquerySerializeObjectRails
-  VERSION = '2.0.1.3'
+  VERSION = '2.5.0'
 end
